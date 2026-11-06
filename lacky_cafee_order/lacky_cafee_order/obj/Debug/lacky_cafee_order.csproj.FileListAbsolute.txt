@@ -1,0 +1,10 @@
+C:\Users\aisha\source\repos\lacky_cafee_order\lacky_cafee_order\bin\Debug\lacky_cafee_order.exe.config
+C:\Users\aisha\source\repos\lacky_cafee_order\lacky_cafee_order\bin\Debug\lacky_cafee_order.exe
+C:\Users\aisha\source\repos\lacky_cafee_order\lacky_cafee_order\bin\Debug\lacky_cafee_order.pdb
+C:\Users\aisha\source\repos\lacky_cafee_order\lacky_cafee_order\obj\Debug\lacky_cafee_order.csproj.AssemblyReference.cache
+C:\Users\aisha\source\repos\lacky_cafee_order\lacky_cafee_order\obj\Debug\lacky_cafee_order.Form1.resources
+C:\Users\aisha\source\repos\lacky_cafee_order\lacky_cafee_order\obj\Debug\lacky_cafee_order.Properties.Resources.resources
+C:\Users\aisha\source\repos\lacky_cafee_order\lacky_cafee_order\obj\Debug\lacky_cafee_order.csproj.GenerateResource.cache
+C:\Users\aisha\source\repos\lacky_cafee_order\lacky_cafee_order\obj\Debug\lacky_cafee_order.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\lacky_cafee_order\lacky_cafee_order\obj\Debug\lacky_cafee_order.exe
+C:\Users\aisha\source\repos\lacky_cafee_order\lacky_cafee_order\obj\Debug\lacky_cafee_order.pdb

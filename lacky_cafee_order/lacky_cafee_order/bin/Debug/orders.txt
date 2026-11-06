@@ -1,0 +1,11 @@
+1) maryama - Juice - Lucky: 12 - $3
+2) maryama - Juice - Lucky: 42 - $3
+
+Member Discount: 10%
+
+Total Before Discount: $6
+
+Total After Discount: $5.4
+
+Lucky Message: No prize this time.
+-------------------
